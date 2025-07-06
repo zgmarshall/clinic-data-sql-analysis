@@ -1,0 +1,501 @@
+﻿patient_id,full_name,last_name,first_name,age,gender,blood_type,visit_date,diagnosis,treatment_plan
+1,Kimberly Wilkerson,Wilkerson,Kimberly,81,M,B+,1/6/22,Pneumonia,Observation
+2,Angelica Mills,Mills,Angelica,76,F,A-,7/14/23,Pneumonia,Surgery
+3,Joseph Shaw,Shaw,Joseph,28,F,O+,2/20/24,Diabetes,Lifestyle Changes
+4,Debra Carney,Carney,Debra,49,M,A+,12/2/21,Hypertension,Lifestyle Changes
+5,William Carpenter,Carpenter,William,62,M,A+,1/19/21,Flu,Medication
+6,Dr. Kevin Graham,Kevin Graham,Dr.,19,O,O+,11/18/22,Asthma,Lifestyle Changes
+7,Adam Roberts,Roberts,Adam,91,M,B-,4/4/23,Pneumonia,Therapy
+8,Kathy Glass,Glass,Kathy,88,O,A+,12/4/22,Fracture,Medication
+9,John Perkins,Perkins,John,96,M,B-,4/26/20,Asthma,Therapy
+10,Michael Salinas,Salinas,Michael,38,M,AB+,7/15/21,Diabetes,Medication
+11,Karen Cameron,Cameron,Karen,93,M,O+,4/18/22,Asthma,Therapy
+12,Julie Smith,Smith,Julie,8,O,AB-,1/27/24,Asthma,Lifestyle Changes
+13,Tammy Sherman,Sherman,Tammy,4,M,A-,11/5/22,Fracture,Surgery
+14,Gregory Walsh,Walsh,Gregory,15,F,O-,10/30/20,Flu,Observation
+15,Bradley Delgado,Delgado,Bradley,80,O,O-,4/20/20,Fracture,Surgery
+16,Megan House,House,Megan,74,O,O+,8/28/23,Flu,Observation
+17,Robert Wiley,Wiley,Robert,33,M,B+,7/2/20,Flu,Medication
+18,Allison Dudley,Dudley,Allison,60,F,O+,8/27/21,Pneumonia,Observation
+19,Jonathan Perez,Perez,Jonathan,14,M,O+,2/13/23,Migraine,Lifestyle Changes
+20,Sean Evans,Evans,Sean,51,F,B+,5/4/21,Diabetes,Lifestyle Changes
+21,Kelly Ewing,Ewing,Kelly,84,F,B+,3/10/21,Hypertension,Therapy
+22,Alyssa Maxwell,Maxwell,Alyssa,84,O,B+,8/3/22,Fracture,Therapy
+23,Janice Orozco,Orozco,Janice,39,F,A+,11/19/23,Diabetes,Therapy
+24,Shawn Smith,Smith,Shawn,45,F,B+,11/2/21,COVID-19,Lifestyle Changes
+25,Amy Sanchez,Sanchez,Amy,35,O,O-,8/8/24,Migraine,Surgery
+26,Angel Marks,Marks,Angel,75,M,O-,1/28/21,Diabetes,Lifestyle Changes
+27,Veronica Marks,Marks,Veronica,74,M,O-,5/25/23,Diabetes,Observation
+28,Russell Douglas,Douglas,Russell,50,M,A-,9/24/23,Fracture,Surgery
+29,Christopher Price,Price,Christopher,52,M,AB+,12/21/24,Asthma,Lifestyle Changes
+30,Joseph Garcia,Garcia,Joseph,48,O,A+,3/16/24,Fracture,Lifestyle Changes
+31,Ricardo Lyons,Lyons,Ricardo,49,F,O-,10/21/24,COVID-19,Lifestyle Changes
+32,Richard Potter,Potter,Richard,99,O,O+,4/14/20,COVID-19,Therapy
+33,Deborah Turner,Turner,Deborah,25,F,B+,8/16/23,Hypertension,Surgery
+34,Michelle Costa,Costa,Michelle,69,F,AB-,11/15/23,Fracture,Therapy
+35,Alex Ramos,Ramos,Alex,97,M,O-,6/4/22,Flu,Medication
+36,Haley Campbell,Campbell,Haley,14,M,O+,12/22/21,COVID-19,Medication
+37,Michelle Austin,Austin,Michelle,1,M,B+,2/5/25,Fracture,Lifestyle Changes
+38,Jason Fox,Fox,Jason,100,F,O-,12/21/21,Hypertension,Lifestyle Changes
+39,Justin Obrien,Obrien,Justin,70,M,A+,8/9/21,Diabetes,Observation
+40,Joseph Anderson,Anderson,Joseph,36,M,B-,6/21/23,COVID-19,Surgery
+41,Courtney Little,Little,Courtney,21,F,A+,8/6/23,Pneumonia,Therapy
+42,Timothy Guerrero,Guerrero,Timothy,87,M,O-,10/7/24,Flu,Surgery
+43,Katherine Blevins,Blevins,Katherine,69,F,B-,2/15/23,Flu,Surgery
+44,Mrs. Christine Roman,Christine Roman,Mrs.,89,M,O+,4/23/20,Fracture,Observation
+45,Leah Garcia,Garcia,Leah,25,M,B+,5/3/20,Hypertension,Medication
+46,Eric Nichols,Nichols,Eric,94,M,B+,6/6/20,Fracture,Observation
+47,Meghan Salas,Salas,Meghan,83,O,AB-,4/16/23,Asthma,Lifestyle Changes
+48,Jim Velasquez,Velasquez,Jim,5,O,O+,7/24/23,Pneumonia,Observation
+49,Bradley Watts,Watts,Bradley,59,F,B-,10/17/24,Hypertension,Therapy
+50,James White,White,James,67,O,B+,2/25/22,COVID-19,Medication
+51,Angela Valencia,Valencia,Angela,58,F,AB+,12/12/21,Flu,Observation
+52,Penny Graham,Graham,Penny,2,F,O+,2/12/20,Migraine,Lifestyle Changes
+53,Mr. Michael Contreras,Michael Contreras,Mr.,96,F,O+,8/22/21,Migraine,Observation
+54,Jason Perry,Perry,Jason,30,O,B-,8/30/20,COVID-19,Medication
+55,Cindy Rogers,Rogers,Cindy,34,M,AB+,3/22/23,Asthma,Surgery
+56,Brenda Fisher,Fisher,Brenda,58,M,O+,8/23/24,COVID-19,Surgery
+57,Samuel Jackson,Jackson,Samuel,35,F,B+,10/26/20,Migraine,Medication
+58,David Mercer,Mercer,David,9,O,A+,11/6/22,Pneumonia,Lifestyle Changes
+59,Charles Glover,Glover,Charles,24,M,B+,8/29/20,Diabetes,Medication
+60,Alicia Mclaughlin,Mclaughlin,Alicia,10,F,O-,1/8/22,Diabetes,Therapy
+61,Kimberly Hernandez,Hernandez,Kimberly,98,O,O+,10/6/20,Diabetes,Observation
+62,Jonathan Cruz,Cruz,Jonathan,91,O,A+,1/4/24,Hypertension,Therapy
+63,Denise Spears,Spears,Denise,87,F,O-,2/21/20,Hypertension,Observation
+64,Pamela Cabrera,Cabrera,Pamela,68,M,O+,3/20/24,Asthma,Medication
+65,Rick Nelson,Nelson,Rick,47,M,B-,9/14/23,Pneumonia,Medication
+66,Jennifer Garcia,Garcia,Jennifer,2,M,B-,4/2/24,Hypertension,Therapy
+67,Mr. Sean Cordova,Sean Cordova,Mr.,9,O,AB-,2/18/23,Migraine,Surgery
+68,William Reyes,Reyes,William,32,F,A+,10/8/22,Fracture,Surgery
+69,Rebecca Mccoy,Mccoy,Rebecca,95,F,A-,1/17/24,Migraine,Medication
+70,Lisa Ferrell,Ferrell,Lisa,20,O,AB+,4/23/22,Hypertension,Observation
+71,Erik Glover,Glover,Erik,74,O,AB-,6/28/23,COVID-19,Surgery
+72,James Noble,Noble,James,93,O,B-,4/19/20,Hypertension,Observation
+73,Brent Flores,Flores,Brent,49,M,O-,9/21/21,Flu,Lifestyle Changes
+74,Tracey Jacobs,Jacobs,Tracey,41,M,AB+,11/17/21,Pneumonia,Observation
+75,Natalie Kim,Kim,Natalie,16,O,B+,5/4/24,Flu,Medication
+76,Juan Lee,Lee,Juan,9,F,O+,6/12/21,Fracture,Therapy
+77,Bradley Howard,Howard,Bradley,61,F,O+,4/3/24,Fracture,Therapy
+78,Hannah Lloyd,Lloyd,Hannah,77,F,O+,5/16/20,Hypertension,Therapy
+79,Frances Vazquez,Vazquez,Frances,25,O,AB-,6/24/23,Pneumonia,Lifestyle Changes
+80,Jeffery Sullivan,Sullivan,Jeffery,58,M,AB+,2/22/23,Pneumonia,Surgery
+81,Samantha Chambers,Chambers,Samantha,45,O,AB-,10/17/20,Diabetes,Surgery
+82,Ashley Mckinney,Mckinney,Ashley,91,F,A-,4/1/22,Hypertension,Lifestyle Changes
+83,Brandon Allen,Allen,Brandon,58,F,AB-,1/11/24,Diabetes,Medication
+84,Shannon Harris,Harris,Shannon,85,M,B+,2/22/23,Diabetes,Therapy
+85,Zachary Hines,Hines,Zachary,71,F,B-,1/22/24,Hypertension,Therapy
+86,Charles Webb,Webb,Charles,88,F,B-,9/5/23,Fracture,Observation
+87,Natasha Turner,Turner,Natasha,84,F,A-,4/19/21,Flu,Lifestyle Changes
+88,Megan Haley,Haley,Megan,59,F,B+,4/3/23,Hypertension,Therapy
+89,Samuel Mcdaniel,Mcdaniel,Samuel,73,F,A-,12/11/23,COVID-19,Observation
+90,Seth Brown,Brown,Seth,41,O,A+,2/1/21,Diabetes,Surgery
+91,Mckenzie Sanders,Sanders,Mckenzie,25,F,AB-,1/11/21,Diabetes,Observation
+92,Brian Taylor,Taylor,Brian,46,F,B-,12/10/20,Pneumonia,Lifestyle Changes
+93,Allison Harrison,Harrison,Allison,45,O,O+,9/3/23,Asthma,Medication
+94,David Kennedy,Kennedy,David,65,M,A+,9/2/20,COVID-19,Observation
+95,Kathleen Vazquez,Vazquez,Kathleen,64,O,O+,7/5/24,COVID-19,Surgery
+96,Taylor Macdonald,Macdonald,Taylor,98,F,B+,10/2/21,Fracture,Lifestyle Changes
+97,Jonathan Cooper,Cooper,Jonathan,68,O,O-,4/13/23,Fracture,Lifestyle Changes
+98,Jonathan Moody,Moody,Jonathan,88,F,O-,3/26/20,Pneumonia,Lifestyle Changes
+99,Michael Black,Black,Michael,41,F,B-,2/12/22,Hypertension,Therapy
+100,Jennifer Hicks,Hicks,Jennifer,88,F,AB+,6/13/22,Migraine,Surgery
+101,Adam Wagner,Wagner,Adam,81,F,B+,6/27/23,Hypertension,Therapy
+102,Morgan Carey MD,Carey MD,Morgan,17,O,O+,10/24/24,Asthma,Surgery
+103,Jared Gonzalez,Gonzalez,Jared,56,F,O+,9/17/20,Migraine,Observation
+104,Alexandra Morris,Morris,Alexandra,54,F,A+,6/2/21,Flu,Observation
+105,Kelly Conrad,Conrad,Kelly,62,O,O-,12/24/24,COVID-19,Observation
+106,Nancy Lopez,Lopez,Nancy,46,O,A+,7/6/22,Hypertension,Medication
+107,Christy Bartlett,Bartlett,Christy,79,M,AB+,6/6/21,Asthma,Therapy
+108,Susan Williams,Williams,Susan,32,M,O-,1/27/21,Migraine,Observation
+109,Julie Freeman,Freeman,Julie,4,M,A-,11/20/20,Asthma,Surgery
+110,Carolyn Solis,Solis,Carolyn,38,O,B-,10/6/23,Diabetes,Lifestyle Changes
+111,Kelly Gonzalez,Gonzalez,Kelly,66,M,A-,7/23/24,Hypertension,Lifestyle Changes
+112,Matthew Murray,Murray,Matthew,34,O,O+,6/18/21,Hypertension,Therapy
+113,Kurt Tran,Tran,Kurt,99,F,O-,2/2/21,Asthma,Observation
+114,Kyle Baird,Baird,Kyle,36,F,B+,12/20/23,Diabetes,Lifestyle Changes
+115,Ronnie Swanson,Swanson,Ronnie,91,M,B-,12/28/23,Asthma,Medication
+116,Jennifer Cantu,Cantu,Jennifer,61,M,O+,2/11/23,Hypertension,Therapy
+117,Christopher Perez,Perez,Christopher,57,O,B-,1/1/24,Diabetes,Surgery
+118,Dominique Singleton,Singleton,Dominique,63,F,O+,4/5/21,Fracture,Medication
+119,Mallory Dean,Dean,Mallory,65,M,B+,8/15/23,Fracture,Medication
+120,Samantha Walters,Walters,Samantha,50,O,O-,1/19/25,Asthma,Lifestyle Changes
+121,Barbara Hill,Hill,Barbara,42,M,B-,1/8/24,Asthma,Lifestyle Changes
+122,Carl Taylor,Taylor,Carl,74,F,B-,3/4/23,Asthma,Medication
+123,John Simon,Simon,John,2,M,O+,10/7/24,Diabetes,Observation
+124,Nathan Romero,Romero,Nathan,96,M,A-,10/15/22,Asthma,Observation
+125,Frank Johnson,Johnson,Frank,77,O,B-,12/14/24,Asthma,Surgery
+126,Danielle Wilson,Wilson,Danielle,76,M,B+,12/16/20,Migraine,Surgery
+127,Joseph Butler,Butler,Joseph,1,F,O-,8/17/22,Pneumonia,Lifestyle Changes
+128,Calvin Moore,Moore,Calvin,74,F,A-,1/4/24,Migraine,Surgery
+129,Ms. Jennifer Marsh PhD,Jennifer Marsh PhD,Ms.,96,O,AB+,12/9/24,COVID-19,Therapy
+130,Paige Rodriguez,Rodriguez,Paige,81,F,B-,1/11/21,COVID-19,Lifestyle Changes
+131,Barbara Wagner,Wagner,Barbara,42,O,B-,4/9/23,Pneumonia,Medication
+132,Kevin Fuller,Fuller,Kevin,8,M,AB-,5/20/24,COVID-19,Observation
+133,Ashley Simon,Simon,Ashley,92,F,AB+,1/14/24,Pneumonia,Surgery
+134,Nicole Lambert,Lambert,Nicole,100,F,O+,6/18/20,Flu,Medication
+135,Angela Smith,Smith,Angela,69,F,O+,8/3/22,Fracture,Observation
+136,Nicholas Blake,Blake,Nicholas,20,F,A+,9/29/23,COVID-19,Lifestyle Changes
+137,Michelle Ward,Ward,Michelle,35,M,A-,7/3/24,COVID-19,Medication
+138,Beverly Williams,Williams,Beverly,55,M,AB+,4/7/20,COVID-19,Medication
+139,Craig Wilkins,Wilkins,Craig,48,M,AB-,9/3/21,Migraine,Medication
+140,Desiree Martin,Martin,Desiree,9,M,O-,12/29/22,COVID-19,Therapy
+141,Dustin Phillips,Phillips,Dustin,75,M,O-,5/19/20,Asthma,Lifestyle Changes
+142,Eugene Stanton,Stanton,Eugene,25,M,B+,10/27/23,COVID-19,Surgery
+143,Colin Welch,Welch,Colin,100,F,A+,9/27/20,Migraine,Therapy
+144,Jennifer Walsh,Walsh,Jennifer,46,M,O-,3/20/24,Hypertension,Therapy
+145,Erica Jimenez,Jimenez,Erica,33,M,O-,6/13/22,Flu,Observation
+146,Kelly Novak,Novak,Kelly,56,F,O+,12/27/23,Pneumonia,Observation
+147,Kelly Davis,Davis,Kelly,67,O,AB+,12/25/23,Hypertension,Observation
+148,Terry Rosales,Rosales,Terry,16,M,A-,12/3/20,Asthma,Medication
+149,Tina Burch,Burch,Tina,59,O,B+,10/9/20,Pneumonia,Lifestyle Changes
+150,Misty Nelson,Nelson,Misty,12,F,A+,6/24/20,Asthma,Medication
+151,Ricardo Johnson,Johnson,Ricardo,37,M,O+,10/7/21,COVID-19,Lifestyle Changes
+152,Karen Kim,Kim,Karen,100,F,B+,8/27/20,Fracture,Surgery
+153,Crystal Lane,Lane,Crystal,62,F,O+,5/4/22,Asthma,Therapy
+154,William Douglas,Douglas,William,54,F,B+,8/28/23,Hypertension,Medication
+155,Dillon Gonzales,Gonzales,Dillon,61,F,A+,11/8/20,Fracture,Surgery
+156,Hannah Bennett,Bennett,Hannah,26,M,A-,2/13/21,Fracture,Observation
+157,Daniel Reed,Reed,Daniel,74,F,AB-,5/29/22,COVID-19,Medication
+158,Abigail Cortez DDS,Cortez DDS,Abigail,15,O,A-,7/6/23,Pneumonia,Surgery
+159,Ms. April Wilson,April Wilson,Ms.,67,F,AB-,7/31/23,Fracture,Observation
+160,Rhonda Chavez,Chavez,Rhonda,82,M,O+,12/28/21,Hypertension,Lifestyle Changes
+161,Samantha Vargas,Vargas,Samantha,99,O,O+,6/27/20,Flu,Therapy
+162,Richard Clayton,Clayton,Richard,61,F,AB+,12/12/21,Migraine,Medication
+163,Michael Patel,Patel,Michael,88,F,AB-,10/22/22,Asthma,Lifestyle Changes
+164,Crystal Taylor,Taylor,Crystal,49,F,O+,8/29/24,Diabetes,Therapy
+165,Stephen Lewis,Lewis,Stephen,48,O,O+,7/23/20,Hypertension,Lifestyle Changes
+166,Jacqueline Jimenez,Jimenez,Jacqueline,25,M,B+,7/23/24,Hypertension,Medication
+167,Timothy Gibbs,Gibbs,Timothy,32,O,AB+,7/3/24,Asthma,Lifestyle Changes
+168,Haley Ramirez,Ramirez,Haley,48,O,A-,6/4/24,Asthma,Therapy
+169,Terry Taylor,Taylor,Terry,6,F,A+,12/12/22,Asthma,Observation
+170,Lisa Jones,Jones,Lisa,40,M,O+,9/17/22,Hypertension,Observation
+171,Susan Harrell,Harrell,Susan,41,F,AB+,4/15/23,Pneumonia,Lifestyle Changes
+172,Vincent Smith,Smith,Vincent,1,F,A-,9/28/23,Fracture,Medication
+173,Keith Velasquez,Velasquez,Keith,60,F,A+,10/15/21,COVID-19,Observation
+174,Rachel Contreras,Contreras,Rachel,33,F,O-,3/12/21,Hypertension,Observation
+175,Douglas Marsh,Marsh,Douglas,14,M,B-,10/26/20,COVID-19,Lifestyle Changes
+176,Amy Lopez,Lopez,Amy,64,M,A-,7/27/23,Pneumonia,Lifestyle Changes
+177,Rebecca Smith,Smith,Rebecca,30,O,A-,4/8/21,Flu,Surgery
+178,Ashley Gilmore,Gilmore,Ashley,35,F,B+,7/2/20,Pneumonia,Therapy
+179,Vanessa Bush,Bush,Vanessa,26,M,A+,3/10/23,Hypertension,Lifestyle Changes
+180,Ryan Thompson,Thompson,Ryan,68,M,A+,4/27/23,Hypertension,Surgery
+181,Matthew Brewer,Brewer,Matthew,87,F,AB-,3/10/23,Flu,Therapy
+182,Elizabeth Browning,Browning,Elizabeth,0,F,AB+,12/1/20,Flu,Observation
+183,Darren Taylor,Taylor,Darren,82,F,B-,10/20/21,Pneumonia,Therapy
+184,Anthony Sanchez,Sanchez,Anthony,71,O,O-,6/18/20,Flu,Medication
+185,Jacqueline Compton,Compton,Jacqueline,68,M,O+,6/6/24,Migraine,Therapy
+186,Hannah Conner,Conner,Hannah,70,O,A-,8/18/21,Fracture,Observation
+187,Sandra Johnson,Johnson,Sandra,41,M,A+,10/15/20,Hypertension,Medication
+188,Dr. Jorge Delacruz,Jorge Delacruz,Dr.,46,M,B-,9/28/22,Pneumonia,Lifestyle Changes
+189,Victoria Parks,Parks,Victoria,38,F,O-,7/26/23,Hypertension,Observation
+190,Miss Amanda Norton MD,Amanda Norton MD,Miss,70,O,A-,6/2/20,Asthma,Lifestyle Changes
+191,Kathryn Kennedy,Kennedy,Kathryn,98,F,AB+,4/23/21,COVID-19,Observation
+192,Danielle Miller,Miller,Danielle,80,M,A-,4/22/21,Flu,Therapy
+193,Audrey Robinson,Robinson,Audrey,57,M,AB+,9/20/23,Migraine,Lifestyle Changes
+194,Jonathan Wilson,Wilson,Jonathan,59,M,AB+,5/26/24,Flu,Medication
+195,Christopher Thompson,Thompson,Christopher,64,M,AB-,2/26/20,Asthma,Surgery
+196,Mr. Stephen Hunt DDS,Stephen Hunt DDS,Mr.,54,M,O+,4/10/24,Hypertension,Surgery
+197,Robert Warner,Warner,Robert,70,F,A+,5/2/24,Flu,Observation
+198,Daniel Mckee,Mckee,Daniel,74,M,O-,6/3/21,Flu,Medication
+199,Tracy Rojas,Rojas,Tracy,42,O,B-,11/27/23,Fracture,Lifestyle Changes
+200,Alejandra Lopez,Lopez,Alejandra,72,M,B-,2/15/21,COVID-19,Medication
+201,Anna Tyler,Tyler,Anna,83,F,AB-,2/15/22,COVID-19,Therapy
+202,Ronnie Jackson,Jackson,Ronnie,53,F,A+,5/1/22,Flu,Surgery
+203,Taylor Kelley,Kelley,Taylor,28,F,O+,11/1/20,Pneumonia,Medication
+204,Kenneth Bray,Bray,Kenneth,2,M,O+,8/26/23,Hypertension,Lifestyle Changes
+205,Mason Miranda,Miranda,Mason,73,F,A+,9/20/24,Fracture,Medication
+206,Andrew Ross,Ross,Andrew,85,F,A-,3/11/22,Migraine,Lifestyle Changes
+207,David Reed,Reed,David,75,F,A-,4/28/20,COVID-19,Observation
+208,Yvonne Torres,Torres,Yvonne,68,F,AB-,10/11/24,Asthma,Surgery
+209,Joann Ramirez,Ramirez,Joann,68,O,B+,1/23/21,Flu,Therapy
+210,Samuel Morales,Morales,Samuel,33,F,AB+,3/15/20,COVID-19,Observation
+211,Ashley Valentine,Valentine,Ashley,42,M,O+,12/7/21,COVID-19,Observation
+212,Jason Lewis,Lewis,Jason,87,O,A+,10/31/21,COVID-19,Observation
+213,Donald Coleman,Coleman,Donald,8,O,O-,9/4/23,Migraine,Medication
+214,Jessica Miller,Miller,Jessica,68,M,A-,3/6/22,Diabetes,Therapy
+215,Michael Christian,Christian,Michael,12,M,B+,12/22/23,Migraine,Medication
+216,Michael Craig,Craig,Michael,19,F,O+,5/21/20,Asthma,Surgery
+217,Randy Johnson,Johnson,Randy,82,M,B+,4/21/22,Migraine,Lifestyle Changes
+218,Julie Kelley,Kelley,Julie,15,M,A-,7/24/21,Migraine,Lifestyle Changes
+219,Leslie Bennett,Bennett,Leslie,83,O,B-,4/11/23,COVID-19,Observation
+220,Deborah Logan,Logan,Deborah,14,F,B+,11/15/21,Asthma,Lifestyle Changes
+221,Joseph Hoover,Hoover,Joseph,33,F,AB-,3/7/20,Hypertension,Therapy
+222,Lance Douglas,Douglas,Lance,52,M,AB-,1/23/23,Diabetes,Lifestyle Changes
+223,Stacey Peterson,Peterson,Stacey,65,F,B+,4/6/21,Pneumonia,Surgery
+224,Daniel Watkins,Watkins,Daniel,49,M,AB-,10/27/20,Migraine,Medication
+225,Alison Gibbs,Gibbs,Alison,72,M,AB-,10/28/23,Fracture,Medication
+226,Kenneth Ryan,Ryan,Kenneth,47,M,AB-,9/16/22,Hypertension,Observation
+227,Michael Watson,Watson,Michael,6,F,AB+,1/29/25,Migraine,Lifestyle Changes
+228,Vicki Khan,Khan,Vicki,34,O,A+,11/14/23,Pneumonia,Therapy
+229,Tammy Smith,Smith,Tammy,41,F,B-,5/1/24,Migraine,Medication
+230,Danny Aguilar,Aguilar,Danny,58,O,O-,7/1/20,Pneumonia,Medication
+231,Thomas Maxwell,Maxwell,Thomas,50,F,O-,1/25/23,Asthma,Medication
+232,Laura Jacobson,Jacobson,Laura,68,F,A-,1/6/22,Diabetes,Surgery
+233,Ms. Dawn Lowe,Dawn Lowe,Ms.,41,M,B+,7/27/21,COVID-19,Observation
+234,Joseph Hatfield,Hatfield,Joseph,85,M,A+,11/26/24,Fracture,Surgery
+235,Michael Bush,Bush,Michael,68,F,B-,4/27/23,Diabetes,Therapy
+236,Evan Ruiz,Ruiz,Evan,26,M,AB+,7/12/23,Asthma,Lifestyle Changes
+237,Kenneth Hodge,Hodge,Kenneth,38,F,AB-,7/10/21,Fracture,Surgery
+238,Kristopher Smith,Smith,Kristopher,92,F,O+,11/28/24,Diabetes,Observation
+239,Jennifer Jordan,Jordan,Jennifer,4,O,B-,7/21/22,Flu,Therapy
+240,Angel Hardin,Hardin,Angel,72,M,AB+,10/28/22,Diabetes,Surgery
+241,Patrick Mata,Mata,Patrick,57,O,B+,4/2/22,Asthma,Surgery
+242,Jason Smith,Smith,Jason,99,F,AB+,7/27/24,COVID-19,Medication
+243,Joshua Richardson,Richardson,Joshua,42,O,AB-,7/9/21,Diabetes,Lifestyle Changes
+244,Dana Glover,Glover,Dana,5,M,A+,7/4/22,Diabetes,Therapy
+245,Melissa Ross,Ross,Melissa,90,O,AB+,7/10/20,Hypertension,Medication
+246,Alexander Mccormick,Mccormick,Alexander,24,M,AB-,9/25/23,Asthma,Observation
+247,Michael Gill,Gill,Michael,74,O,O-,11/26/23,Asthma,Medication
+248,David Davies,Davies,David,57,M,B-,7/2/20,Migraine,Therapy
+249,Roger Moore,Moore,Roger,1,M,A-,1/27/22,Diabetes,Observation
+250,Wendy George,George,Wendy,7,M,A+,7/24/24,Flu,Lifestyle Changes
+251,Nicholas Ramsey,Ramsey,Nicholas,54,F,B+,6/19/22,Asthma,Therapy
+252,Robert Wilkerson,Wilkerson,Robert,38,M,O-,4/11/22,Flu,Lifestyle Changes
+253,Peter Robinson,Robinson,Peter,37,O,O-,11/4/21,Hypertension,Lifestyle Changes
+254,John Simon,Simon,John,31,F,AB+,6/17/24,Asthma,Lifestyle Changes
+255,William Jenkins,Jenkins,William,18,O,AB+,5/20/22,Asthma,Medication
+256,Amy Black,Black,Amy,5,M,O-,4/1/20,Diabetes,Surgery
+257,Brandon Martinez,Martinez,Brandon,69,F,AB-,9/21/23,Fracture,Lifestyle Changes
+258,Katherine Townsend,Townsend,Katherine,94,O,A-,11/19/24,Diabetes,Therapy
+259,Glen Thomas,Thomas,Glen,86,O,B-,1/18/21,Flu,Surgery
+260,Katherine Bradley,Bradley,Katherine,48,F,A+,3/2/23,Fracture,Therapy
+261,Mr. Jose Miller,Jose Miller,Mr.,77,O,B-,6/19/24,Hypertension,Medication
+262,Brian Barrett,Barrett,Brian,94,O,O+,9/13/21,Hypertension,Surgery
+263,Christopher Curtis,Curtis,Christopher,44,M,B+,5/8/21,Migraine,Therapy
+264,Sarah Moyer,Moyer,Sarah,42,F,B-,12/29/23,Hypertension,Therapy
+265,Jimmy Golden,Golden,Jimmy,16,M,A+,11/13/21,Asthma,Therapy
+266,Thomas Thomas,Thomas,Thomas,83,M,O+,9/5/23,Flu,Observation
+267,Jared Duran,Duran,Jared,47,F,B+,4/4/21,Pneumonia,Therapy
+268,Timothy Robinson,Robinson,Timothy,59,O,AB+,6/18/23,Migraine,Surgery
+269,Jeffrey Castro,Castro,Jeffrey,80,O,AB-,8/31/20,Fracture,Observation
+270,Diane Walker,Walker,Diane,96,F,A+,4/11/23,COVID-19,Surgery
+271,Trevor Wyatt,Wyatt,Trevor,39,O,A+,11/24/24,Fracture,Therapy
+272,John Meadows,Meadows,John,24,O,B+,12/22/23,Flu,Observation
+273,Julie Escobar,Escobar,Julie,17,M,A+,2/14/23,Asthma,Medication
+274,Grant Ward,Ward,Grant,1,M,B+,8/24/24,COVID-19,Therapy
+275,Emily Lucas,Lucas,Emily,48,M,O+,2/10/20,Hypertension,Lifestyle Changes
+276,Sandra Kelley,Kelley,Sandra,41,F,A+,10/9/24,Asthma,Lifestyle Changes
+277,Richard Conway,Conway,Richard,9,O,O+,5/10/22,COVID-19,Therapy
+278,Roberto Jefferson,Jefferson,Roberto,58,M,B-,2/10/24,Asthma,Therapy
+279,Alexandra Harris,Harris,Alexandra,92,M,A+,8/21/23,Flu,Therapy
+280,Gerald Taylor,Taylor,Gerald,21,M,A-,12/7/20,Diabetes,Medication
+281,Sherri Allen,Allen,Sherri,69,O,AB-,2/13/21,Diabetes,Therapy
+282,Evan Morgan,Morgan,Evan,59,F,B+,6/18/24,Diabetes,Lifestyle Changes
+283,Jeanne Robinson,Robinson,Jeanne,29,O,AB+,11/20/22,Flu,Therapy
+284,Andrew Bray,Bray,Andrew,6,F,AB+,12/20/20,COVID-19,Lifestyle Changes
+285,Debra Cisneros,Cisneros,Debra,75,F,AB+,9/20/21,Hypertension,Observation
+286,Lisa Baker,Baker,Lisa,57,O,A+,2/19/20,Flu,Therapy
+287,Elizabeth Adkins,Adkins,Elizabeth,72,F,O-,12/3/21,Hypertension,Medication
+288,Brandon Taylor,Taylor,Brandon,81,F,O-,11/14/23,Pneumonia,Medication
+289,Kevin Espinoza,Espinoza,Kevin,15,F,B+,5/18/23,Asthma,Surgery
+290,Daniel Martinez,Martinez,Daniel,86,M,A-,6/28/22,Flu,Therapy
+291,Anthony Petty,Petty,Anthony,3,M,B-,9/23/20,Hypertension,Surgery
+292,James Jenkins,Jenkins,James,85,M,AB-,9/7/20,Migraine,Surgery
+293,David Snyder,Snyder,David,8,O,B+,6/27/23,Fracture,Lifestyle Changes
+294,Laura Adams,Adams,Laura,35,F,A-,1/3/22,Diabetes,Observation
+295,Vanessa White,White,Vanessa,85,M,O+,7/21/22,Flu,Observation
+296,Lauren Schwartz,Schwartz,Lauren,97,F,O-,12/27/24,Diabetes,Lifestyle Changes
+297,John Sweeney,Sweeney,John,99,M,B-,9/21/23,Flu,Observation
+298,Karen James,James,Karen,2,O,B+,3/4/22,Hypertension,Observation
+299,Richard Clark,Clark,Richard,57,O,A+,11/26/24,Migraine,Medication
+300,Karen Beasley,Beasley,Karen,59,M,AB+,1/7/22,Pneumonia,Surgery
+301,Wesley Larsen,Larsen,Wesley,11,F,B+,11/12/24,Migraine,Observation
+302,Michael Carlson,Carlson,Michael,64,F,O-,7/19/21,Hypertension,Observation
+303,Bobby Jones,Jones,Bobby,13,O,B-,7/13/23,COVID-19,Lifestyle Changes
+304,Heather Anderson,Anderson,Heather,65,M,B-,1/8/22,Fracture,Medication
+305,Tony Roach,Roach,Tony,59,F,O+,5/1/20,Asthma,Medication
+306,Brian Howard,Howard,Brian,14,M,B-,6/3/23,Hypertension,Lifestyle Changes
+307,Charles Cole,Cole,Charles,11,M,AB-,12/7/24,Migraine,Observation
+308,Adriana Douglas,Douglas,Adriana,29,F,A+,8/30/22,Asthma,Surgery
+309,Kevin Mccall,Mccall,Kevin,73,F,O+,1/20/22,Pneumonia,Therapy
+310,Michael Dalton,Dalton,Michael,58,F,AB-,4/17/23,Diabetes,Observation
+311,Brittany Smith,Smith,Brittany,10,M,O+,1/29/25,COVID-19,Surgery
+312,Linda Henderson,Henderson,Linda,96,M,AB+,2/4/22,Fracture,Therapy
+313,Mr. Timothy Stewart,Timothy Stewart,Mr.,67,F,B-,5/26/22,Hypertension,Therapy
+314,Ronnie Montoya,Montoya,Ronnie,22,O,O-,10/25/20,COVID-19,Therapy
+315,William Powell PhD,Powell PhD,William,59,M,A-,1/12/24,Migraine,Medication
+316,Chelsea Brown,Brown,Chelsea,70,M,AB+,5/6/20,Pneumonia,Surgery
+317,Janice Gomez,Gomez,Janice,30,F,O+,7/26/21,COVID-19,Observation
+318,Devin James,James,Devin,40,F,AB-,4/30/23,Diabetes,Therapy
+319,Steven Hopkins,Hopkins,Steven,38,O,B-,8/30/20,Flu,Surgery
+320,Ashley Sparks,Sparks,Ashley,63,F,A-,11/26/20,Fracture,Surgery
+321,Brandon Frye,Frye,Brandon,25,F,A+,7/13/20,Asthma,Lifestyle Changes
+322,Julie Lewis,Lewis,Julie,38,M,O-,6/30/20,Pneumonia,Lifestyle Changes
+323,Chad Frazier,Frazier,Chad,9,O,B-,6/10/24,Flu,Therapy
+324,Kendra Moody,Moody,Kendra,71,O,AB+,7/6/20,Hypertension,Surgery
+325,Benjamin Gomez,Gomez,Benjamin,72,F,A+,8/21/22,Pneumonia,Lifestyle Changes
+326,Aaron Foster,Foster,Aaron,84,O,AB-,11/6/22,Fracture,Surgery
+327,Joel Hull II,Hull II,Joel,23,M,AB-,11/21/22,Pneumonia,Observation
+328,Stephanie Watkins,Watkins,Stephanie,20,M,B+,6/24/21,Pneumonia,Medication
+329,Ashley Munoz,Munoz,Ashley,64,M,A+,8/6/24,COVID-19,Surgery
+330,John Hernandez,Hernandez,John,41,M,AB+,11/28/23,Diabetes,Lifestyle Changes
+331,Cynthia Mendez,Mendez,Cynthia,90,F,AB+,2/7/22,Hypertension,Medication
+332,Beverly Smith,Smith,Beverly,24,F,O+,12/22/21,Asthma,Medication
+333,Rebecca Mueller,Mueller,Rebecca,61,F,O-,3/13/21,Diabetes,Lifestyle Changes
+334,Shaun Fisher,Fisher,Shaun,15,F,A+,8/8/20,Asthma,Therapy
+335,Holly Schroeder,Schroeder,Holly,92,F,AB+,6/9/22,Pneumonia,Medication
+336,Dr. Stephanie Cook PhD,Stephanie Cook PhD,Dr.,77,O,A-,11/12/21,Asthma,Medication
+337,Connie Harris,Harris,Connie,36,F,AB-,6/25/21,Pneumonia,Therapy
+338,Thomas Williams,Williams,Thomas,80,M,O+,8/25/24,Diabetes,Medication
+339,Jennifer Parker,Parker,Jennifer,89,O,O+,5/28/20,Pneumonia,Lifestyle Changes
+340,Katherine Wilkinson,Wilkinson,Katherine,62,F,B-,4/2/22,Fracture,Observation
+341,Beverly Miles,Miles,Beverly,70,M,O+,1/17/23,Flu,Lifestyle Changes
+342,Samantha Palmer,Palmer,Samantha,54,M,AB+,12/14/22,Hypertension,Observation
+343,Catherine Miller,Miller,Catherine,100,O,A-,9/13/24,Fracture,Observation
+344,Cheryl Owens,Owens,Cheryl,73,M,A+,2/24/24,COVID-19,Surgery
+345,Michael Wood,Wood,Michael,93,F,O+,2/28/23,Fracture,Medication
+346,Mark Reynolds,Reynolds,Mark,94,F,AB+,12/3/22,Asthma,Surgery
+347,Nicole Collins,Collins,Nicole,73,M,A+,5/12/24,Diabetes,Therapy
+348,Rebecca Hall,Hall,Rebecca,78,M,AB+,5/22/22,COVID-19,Lifestyle Changes
+349,Thomas Ponce,Ponce,Thomas,4,M,O-,11/9/24,Fracture,Observation
+350,Jesse Walker,Walker,Jesse,80,M,O-,12/27/24,Migraine,Medication
+351,James Caldwell,Caldwell,James,68,F,A-,4/21/23,Pneumonia,Surgery
+352,Joshua Simpson,Simpson,Joshua,24,O,A+,5/1/20,Migraine,Therapy
+353,Tanya Jackson,Jackson,Tanya,47,M,AB+,6/26/24,Diabetes,Observation
+354,Rodney Jackson,Jackson,Rodney,8,M,A+,2/16/21,Pneumonia,Surgery
+355,Alexander Adams,Adams,Alexander,36,O,O+,3/20/22,Asthma,Therapy
+356,Kyle Hahn,Hahn,Kyle,92,M,B-,8/24/21,Hypertension,Observation
+357,Amber Parsons,Parsons,Amber,59,M,AB+,2/18/23,Migraine,Surgery
+358,Larry Hill,Hill,Larry,95,F,B+,12/1/20,Fracture,Therapy
+359,Jacqueline Jenkins,Jenkins,Jacqueline,4,O,A-,5/5/23,Migraine,Therapy
+360,Edward Jensen,Jensen,Edward,85,O,AB-,7/21/21,Pneumonia,Therapy
+361,Donna Macdonald,Macdonald,Donna,77,O,AB+,9/23/23,Asthma,Medication
+362,Jon Hunter,Hunter,Jon,44,O,O-,2/5/24,Fracture,Observation
+363,Dan Bennett,Bennett,Dan,46,M,O+,3/11/21,COVID-19,Lifestyle Changes
+364,Kevin Jackson,Jackson,Kevin,72,O,AB-,3/16/24,Hypertension,Therapy
+365,Elizabeth Robinson,Robinson,Elizabeth,76,F,A-,12/13/21,Migraine,Surgery
+366,Ian Hernandez,Hernandez,Ian,48,M,B-,12/1/20,Migraine,Therapy
+367,Oscar Turner,Turner,Oscar,61,M,B+,8/23/20,Hypertension,Lifestyle Changes
+368,Daniel Ellis,Ellis,Daniel,30,F,O-,12/16/21,Diabetes,Observation
+369,Rita Watkins,Watkins,Rita,60,F,AB+,8/10/22,Diabetes,Medication
+370,Marcus Walker,Walker,Marcus,93,O,O+,9/20/24,Pneumonia,Therapy
+371,Harold Green,Green,Harold,92,F,B+,6/4/20,Diabetes,Surgery
+372,Heather Williamson,Williamson,Heather,53,M,O-,4/23/21,Hypertension,Therapy
+373,Jessica Benson,Benson,Jessica,7,F,AB-,1/2/24,Diabetes,Therapy
+374,Yvette Garcia,Garcia,Yvette,51,F,O+,8/17/23,COVID-19,Medication
+375,Todd Houston,Houston,Todd,73,M,O+,8/14/23,COVID-19,Surgery
+376,David Lynch,Lynch,David,74,O,B-,11/5/20,COVID-19,Observation
+377,Michael Fuentes,Fuentes,Michael,74,F,A+,3/1/23,Flu,Surgery
+378,John Evans,Evans,John,6,M,O-,3/12/22,Hypertension,Therapy
+379,Jerry Cooper,Cooper,Jerry,42,M,AB-,12/1/23,COVID-19,Therapy
+380,Brandon Moore,Moore,Brandon,67,F,A+,10/1/23,Asthma,Lifestyle Changes
+381,Raymond Wallace,Wallace,Raymond,80,M,A-,7/20/21,COVID-19,Observation
+382,Yvonne Diaz,Diaz,Yvonne,42,M,A-,2/17/23,Diabetes,Therapy
+383,Robin Wallace,Wallace,Robin,37,M,A-,5/15/24,Diabetes,Observation
+384,Alexander May,May,Alexander,49,F,AB+,8/16/22,Hypertension,Therapy
+385,Jason Phelps,Phelps,Jason,71,O,B-,11/17/22,Flu,Therapy
+386,John Johnson,Johnson,John,39,F,B+,6/11/24,Pneumonia,Therapy
+387,Veronica Montoya,Montoya,Veronica,29,F,O-,12/8/23,Diabetes,Therapy
+388,Kenneth Rodriguez DVM,Rodriguez DVM,Kenneth,26,M,O+,11/4/20,Pneumonia,Lifestyle Changes
+389,Erin Valenzuela,Valenzuela,Erin,96,O,A+,1/11/21,Flu,Observation
+390,Jennifer Brown,Brown,Jennifer,54,F,A-,10/30/21,Fracture,Therapy
+391,Kevin Lee,Lee,Kevin,75,M,AB-,12/8/23,Pneumonia,Therapy
+392,Karen Davis,Davis,Karen,23,F,A+,3/21/22,Pneumonia,Observation
+393,Tammy Porter,Porter,Tammy,22,O,A+,4/11/21,Asthma,Surgery
+394,Shane Jenkins,Jenkins,Shane,74,M,A-,3/9/21,Fracture,Lifestyle Changes
+395,John Lang,Lang,John,90,M,B+,4/17/21,Diabetes,Observation
+396,Michael Adams,Adams,Michael,32,F,AB-,8/6/21,Flu,Therapy
+397,Charles Rice,Rice,Charles,16,M,B+,1/21/25,Migraine,Lifestyle Changes
+398,Tanner Diaz,Diaz,Tanner,46,M,O+,2/13/24,Diabetes,Surgery
+399,Mary Taylor,Taylor,Mary,45,F,O+,6/16/24,Fracture,Observation
+400,Natasha Gallagher,Gallagher,Natasha,26,O,A+,4/30/22,COVID-19,Medication
+401,Jesse Adams,Adams,Jesse,59,O,O+,9/2/22,Fracture,Medication
+402,Jeffrey Rasmussen,Rasmussen,Jeffrey,9,F,O-,1/8/21,Hypertension,Medication
+403,Amanda Carroll,Carroll,Amanda,69,M,B-,4/6/20,Fracture,Medication
+404,Jamie Ward,Ward,Jamie,87,O,O-,3/1/22,Pneumonia,Lifestyle Changes
+405,Jose Cruz,Cruz,Jose,36,F,A-,2/16/22,COVID-19,Lifestyle Changes
+406,Paul Rhodes,Rhodes,Paul,1,F,AB+,6/17/24,Pneumonia,Medication
+407,Kristin Hogan,Hogan,Kristin,53,M,B-,7/5/23,COVID-19,Medication
+408,Jennifer Cook,Cook,Jennifer,51,O,B+,4/20/23,Migraine,Surgery
+409,Julia Myers,Myers,Julia,22,F,O-,7/23/23,Asthma,Surgery
+410,Tyler Larson,Larson,Tyler,41,F,B-,8/20/21,Flu,Medication
+411,Sarah Hernandez,Hernandez,Sarah,18,M,AB-,3/19/21,Pneumonia,Surgery
+412,Angela Clark,Clark,Angela,53,F,B-,1/22/24,Pneumonia,Surgery
+413,Emma Miller,Miller,Emma,48,M,B+,12/5/22,Diabetes,Lifestyle Changes
+414,Stacy Rhodes,Rhodes,Stacy,52,F,AB-,9/3/24,Pneumonia,Lifestyle Changes
+415,Briana Duncan,Duncan,Briana,5,M,A-,7/27/22,Asthma,Surgery
+416,Kayla Pope,Pope,Kayla,14,F,B-,5/17/20,Migraine,Observation
+417,William Dean,Dean,William,99,M,AB-,2/28/23,Migraine,Lifestyle Changes
+418,William Thompson,Thompson,William,51,M,AB-,6/12/22,Asthma,Surgery
+419,Michael Nguyen,Nguyen,Michael,67,F,A-,10/22/24,Fracture,Observation
+420,Michael Leonard,Leonard,Michael,76,M,O+,3/11/21,Flu,Observation
+421,Monique Clarke,Clarke,Monique,63,F,B-,3/1/23,COVID-19,Medication
+422,John Chambers,Chambers,John,14,F,AB+,12/23/20,Asthma,Medication
+423,Carolyn Hancock,Hancock,Carolyn,85,M,AB+,11/21/21,COVID-19,Surgery
+424,Amanda White,White,Amanda,96,M,B+,7/15/22,Flu,Medication
+425,Sarah Marshall,Marshall,Sarah,13,F,A+,3/31/20,Pneumonia,Medication
+426,Jacob Farmer,Farmer,Jacob,56,F,A+,11/20/21,Pneumonia,Surgery
+427,Brianna Rose,Rose,Brianna,3,O,B+,5/20/24,Fracture,Lifestyle Changes
+428,Stephen Fernandez,Fernandez,Stephen,22,M,O+,2/10/22,Pneumonia,Medication
+429,Jonathan Lloyd,Lloyd,Jonathan,44,M,A-,2/6/21,Flu,Medication
+430,Michele Ewing,Ewing,Michele,94,O,O-,2/2/25,Fracture,Medication
+431,Mark Golden,Golden,Mark,94,M,B+,7/30/23,Pneumonia,Surgery
+432,Taylor Anderson,Anderson,Taylor,58,M,B-,3/14/22,COVID-19,Lifestyle Changes
+433,Jill White,White,Jill,81,M,A-,8/21/21,Asthma,Observation
+434,Kimberly Roy,Roy,Kimberly,50,O,B-,2/24/24,Pneumonia,Surgery
+435,Amanda Hill,Hill,Amanda,70,F,A+,11/10/21,Pneumonia,Therapy
+436,Marcus Thornton,Thornton,Marcus,76,O,AB-,11/29/21,Pneumonia,Therapy
+437,Rebecca Sweeney,Sweeney,Rebecca,82,O,AB-,7/23/22,Asthma,Observation
+438,Kelli Rodriguez,Rodriguez,Kelli,26,M,AB+,3/30/20,Diabetes,Observation
+439,Carl Mercer,Mercer,Carl,1,O,AB-,6/26/24,Migraine,Medication
+440,Carl Robinson,Robinson,Carl,78,M,O+,12/28/20,Flu,Surgery
+441,Kathryn Robinson,Robinson,Kathryn,99,O,AB-,12/29/22,Diabetes,Lifestyle Changes
+442,Christine Wright,Wright,Christine,40,O,AB+,3/7/22,Diabetes,Therapy
+443,Christopher Flores,Flores,Christopher,93,O,B-,4/7/22,Migraine,Lifestyle Changes
+444,Erin Foster,Foster,Erin,84,M,A-,12/10/21,Fracture,Therapy
+445,Julie Vazquez,Vazquez,Julie,47,M,B+,2/21/24,Asthma,Observation
+446,Jennifer Boyer,Boyer,Jennifer,76,M,B+,6/4/20,Fracture,Surgery
+447,Thomas Barnes,Barnes,Thomas,38,M,A-,5/21/23,Flu,Medication
+448,Toni Bowen,Bowen,Toni,96,F,B+,11/15/22,Asthma,Observation
+449,Nancy Benson,Benson,Nancy,11,M,AB-,8/13/24,Migraine,Observation
+450,Brandon Bishop,Bishop,Brandon,19,F,B-,2/8/24,Hypertension,Observation
+451,Brittany Davis,Davis,Brittany,88,M,AB-,1/8/25,Pneumonia,Therapy
+452,Tina Holder,Holder,Tina,29,M,B-,4/19/23,COVID-19,Lifestyle Changes
+453,Thomas Brown,Brown,Thomas,16,F,B+,6/15/22,COVID-19,Medication
+454,Margaret Lopez,Lopez,Margaret,85,M,AB-,10/31/24,Asthma,Surgery
+455,Heather Love,Love,Heather,3,O,AB-,6/9/24,COVID-19,Lifestyle Changes
+456,Kevin Adams,Adams,Kevin,26,O,B-,11/2/23,COVID-19,Medication
+457,Nicole Hawkins,Hawkins,Nicole,40,O,O+,5/16/21,COVID-19,Observation
+458,Gabriella Boone,Boone,Gabriella,11,O,O-,8/18/20,Diabetes,Observation
+459,Brian Alvarez,Alvarez,Brian,85,F,B+,10/11/20,Asthma,Lifestyle Changes
+460,Paul Campbell,Campbell,Paul,24,F,O+,12/14/22,Diabetes,Surgery
+461,William Scott,Scott,William,80,O,A-,10/12/21,Diabetes,Surgery
+462,Francisco Perry,Perry,Francisco,4,O,AB+,12/26/23,Fracture,Surgery
+463,Kristen Williams,Williams,Kristen,80,O,O+,5/19/20,COVID-19,Observation
+464,Pamela Gamble,Gamble,Pamela,73,F,B+,10/1/21,Pneumonia,Surgery
+465,Samantha Chavez,Chavez,Samantha,26,M,A-,9/11/23,Diabetes,Surgery
+466,Clinton Roberts,Roberts,Clinton,85,F,A+,12/6/22,Pneumonia,Observation
+467,Christopher Evans,Evans,Christopher,75,F,AB+,10/18/23,Hypertension,Therapy
+468,Jonathan Sanchez,Sanchez,Jonathan,45,F,O+,5/8/21,Pneumonia,Lifestyle Changes
+469,Sandra Mason,Mason,Sandra,38,O,A+,7/13/21,Hypertension,Lifestyle Changes
+470,Evelyn Brooks,Brooks,Evelyn,74,F,O+,10/24/20,Asthma,Observation
+471,Vincent Porter,Porter,Vincent,55,F,B+,9/14/24,Migraine,Lifestyle Changes
+472,Shawn Jacobs,Jacobs,Shawn,8,M,O+,4/18/24,Fracture,Therapy
+473,Sheila Page,Page,Sheila,76,O,O+,7/31/20,Fracture,Medication
+474,Sierra Burton,Burton,Sierra,27,F,B+,8/28/24,Flu,Observation
+475,Richard Smith,Smith,Richard,5,O,AB+,1/13/24,Diabetes,Lifestyle Changes
+476,Ethan Romero,Romero,Ethan,0,F,B+,3/22/21,Flu,Therapy
+477,Peggy Vasquez,Vasquez,Peggy,18,O,O-,10/11/23,Pneumonia,Surgery
+478,Adam Jackson,Jackson,Adam,65,M,B-,5/14/24,Pneumonia,Therapy
+479,Joanna Davis,Davis,Joanna,9,M,AB+,3/6/24,Flu,Medication
+480,Stefanie Young,Young,Stefanie,78,F,AB+,6/7/21,Asthma,Observation
+481,Renee Howe,Howe,Renee,87,M,B-,6/9/21,Asthma,Medication
+482,Bradley Lawson,Lawson,Bradley,25,M,O+,7/25/24,Fracture,Observation
+483,John Harvey,Harvey,John,75,F,O-,5/29/21,Pneumonia,Surgery
+484,Robert Petersen,Petersen,Robert,41,M,O+,4/7/23,Hypertension,Lifestyle Changes
+485,Steve Weeks,Weeks,Steve,94,O,O-,6/13/23,Asthma,Observation
+486,Tracy Larson,Larson,Tracy,36,F,A+,1/5/23,Flu,Medication
+487,Christian Davis,Davis,Christian,97,M,AB-,11/8/24,Fracture,Lifestyle Changes
+488,Linda Mathis,Mathis,Linda,1,M,B+,11/14/20,Fracture,Surgery
+489,Cassie Hardy,Hardy,Cassie,80,F,O+,4/26/23,Asthma,Therapy
+490,Ethan Campbell,Campbell,Ethan,40,O,AB+,10/28/21,Hypertension,Lifestyle Changes
+491,John Irwin,Irwin,John,94,F,A+,1/11/24,Hypertension,Medication
+492,Jennifer Rodriguez,Rodriguez,Jennifer,20,O,B+,4/7/24,Flu,Therapy
+493,William Wu,Wu,William,17,O,AB-,9/27/20,Migraine,Lifestyle Changes
+494,Olivia Koch,Koch,Olivia,53,M,AB+,6/17/20,Diabetes,Surgery
+495,Benjamin Gilbert MD,Gilbert MD,Benjamin,37,F,AB-,11/26/20,Asthma,Surgery
+496,Kenneth Leach,Leach,Kenneth,42,M,B-,9/27/24,Fracture,Medication
+497,Jacob Morrow,Morrow,Jacob,38,F,O-,10/3/22,Fracture,Observation
+498,Kimberly Sharp,Sharp,Kimberly,87,M,B-,7/27/20,Hypertension,Surgery
+499,Anthony Sparks,Sparks,Anthony,70,M,AB-,12/13/22,Pneumonia,Surgery
+500,Angie Thompson,Thompson,Angie,48,F,B+,8/26/22,Diabetes,Therapy

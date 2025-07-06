@@ -26,10 +26,10 @@ I used Microsoft Excel to clean the data, and SQL to explore and analyze the dat
 
 ## Sample Analysis Questions
 
-- What is the total revenue by clinic?
+- What is the total billing revenue by clinic location?
 - How does insurance coverage affect out-of-pocket expenses?
-- What patterns emerge in patient visit frequency?
 - Which appointment types generate the highest average billing?
+- Does patient age impact average out-of-pocket expenses?
 
 ## File Structure
 

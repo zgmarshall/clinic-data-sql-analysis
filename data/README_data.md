@@ -8,7 +8,6 @@ The data was adapted from a publicly available dataset on [Kaggle](https://www.k
 
 ## Files Included
 
-- `patients.csv` – Patient demographic information
 - `billing.csv` – Appointment billing data, including out-of-pocket and insurance coverage
 - `clinic_resources.csv` – Clinic-level data including resources available per location
 

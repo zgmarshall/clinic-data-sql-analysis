@@ -6,7 +6,6 @@ This is a personal data analytics project where I designed and explored a relati
 
 The project uses synthetic anonymized healthcare data structured into multiple related tables, including:
 - `patients`
-- `appointments`
 - `billing`
 - `clinic_resources`
 
